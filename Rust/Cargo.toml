@@ -1,0 +1,7 @@
+[package]
+name = "task-cli"
+version = "0.1.0"
+edition = "2018"
+[[bin]]
+name = "task-cli"
+path = "main.rs"
